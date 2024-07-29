@@ -1,4 +1,4 @@
-/*import getOnsiteStudents, { getAllStudents as wholeClass} from "./students function.js";     // method 1 
+/*import as getOnsiteStudents, { getAllStudents as wholeClass} from "./students function.js";     // method 1 
      //  default export           export 
                             // hum name bhi change kar saktay h (as) kar k is ko hum alias bhi kahtay h.
 // 1 hi line may hum (export default) or (export) dono  kar sakhtay h
@@ -7,7 +7,7 @@ const result = wholeClass();
 // console.log("result: ", result);   // is say saray students k naam or id aye gy.
 
 const onsiteStudents = getOnsiteStudents();
-console.log('onsitestudents: ', onsiteStudents);   // is say sirf onsite walo k id aye gy.*/
+console.log('onsitestudents: ', onsiteStudents);   // is say sirf onsite walo k id aye gy. */
 
 ///////////////////////////////////////////////////////////////////////////////////////
 
